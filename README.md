@@ -7,9 +7,10 @@ Continuously learning and building clean.
 
 ### 🌐 Socials
 
+[![Store](https://img.shields.io/badge/Store-Tebex-00A86B?style=flat&logo=shopify&logoColor=white)](https://laot.tebex.io/)
+[![Docs](https://img.shields.io/badge/Docs-000000?style=flat&logo=gitbook&logoColor=white)](https://docs.laotscripts.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/YNAyVg8)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@LAOTScripts)
-[![Docs](https://img.shields.io/badge/Docs-000000?style=flat&logo=gitbook&logoColor=white)](https://docs.laotscripts.com)
 
 
 ---
