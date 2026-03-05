@@ -1,13 +1,12 @@
-## 👋 Hello, I'm laot.
+## 👋 Hi, I’m Emir (laot).
 
-Backend-focused developer working on web applications and FiveM scripts.  
-Continuously learning and building clean.
+A passionate web developer and FiveM script creator. I specialize in full-stack development using Lua, JavaScript, TypeScript, Vue, Nuxt, React and modern front-end frameworks like Tailwind & SCSS. I build scalable web apps, custom scripts, and game server tools with a focus on performance and clean code. Always exploring new tech and pushing projects to production-ready quality.
 
 ---
 
 ### 🌐 Socials
 
-[![Store](https://img.shields.io/badge/Store-00A86B?style=plastic&logo=shopify&logoColor=white)](https://laotscripts.com/) [![Docs](https://img.shields.io/badge/Docs-000000?style=plastic&logo=gitbook&logoColor=white)](https://docs.laotscripts.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YNAyVg8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=plastiic)](https://youtube.com/@https://www.youtube.com/@LAOTScripts)
+[![Store](https://img.shields.io/badge/Tebex-00A86B?style=plastic&logo=shopify&logoColor=white)](https://laot.tebex.io/) [![Docs](https://img.shields.io/badge/Docs-000000?style=plastic&logo=gitbook&logoColor=white)](https://docs.laotscripts.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YNAyVg8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=plastiic)](https://youtube.com/@https://www.youtube.com/@LAOTScripts)
 
 ---
 
