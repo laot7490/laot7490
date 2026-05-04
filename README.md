@@ -6,7 +6,7 @@ A passionate web developer and FiveM script creator. I specialize in full-stack 
 
 ### 🌐 Socials
 
-[![Store](https://img.shields.io/badge/Store-00A86B?style=plastic&logo=shopify&logoColor=white)](https://laotscripts.com/) [![Docs](https://img.shields.io/badge/Docs-000000?style=plastic&logo=gitbook&logoColor=white)](https://docs.laotscripts.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YNAyVg8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=plastiic)](https://youtube.com/@https://www.youtube.com/@LAOTScripts)
+[![Store](https://img.shields.io/badge/Store-00A86B?style=plastic&logo=shopify&logoColor=white)](https://laotscripts.com/) [![Docs](https://img.shields.io/badge/Docs-000000?style=plastic&logo=gitbook&logoColor=white)](https://docs.laotscripts.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YNAyVg8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=plastiic)](https://www.youtube.com/@LAOTScripts)
 
 ---
 
