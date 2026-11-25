@@ -12,7 +12,7 @@ I enjoy building performant applications, exploring new technologies, and contri
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laot7490&layout=compact&theme=dark" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laot7490&layout=compact&theme=transparent" alt="Most used languages" />
 
 ## Support Me
 
