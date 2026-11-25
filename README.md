@@ -12,8 +12,6 @@ I enjoy building performant applications, exploring new technologies, and contri
 
 ## Github Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laot7490&theme=dark" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laot7490&layout=compact&theme=dark" alt="Most used languages" />
 
 ## Support Me
