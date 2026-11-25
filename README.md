@@ -1,30 +1,21 @@
-## 👋 Hi, I’m Emir (laot).
+# 👋 Hi, I’m Emir (laot).
 
-A passionate web developer and FiveM script creator. I specialize in full-stack development using Lua, JavaScript, TypeScript, Vue, Nuxt, React and modern front-end frameworks like Tailwind & SCSS. I build scalable web apps, custom scripts, and game server tools with a focus on performance and clean code. Always exploring new tech and pushing projects to production-ready quality.
+I'm a software developer from Türkiye, passionate about web development, open-source software, and developer tooling.
 
----
+I enjoy building performant applications, exploring new technologies, and contributing to open-source projects.
 
-### 🌐 Socials
+[![My Skills](https://skillicons.dev/icons?i=lua,rust,js,ts,vue,nuxt,react,next,tailwind,vite,php,git,figma,py&perline=7)](https://skillicons.dev)
 
-[![Store](https://img.shields.io/badge/Store-00A86B?style=plastic&logo=shopify&logoColor=white)](https://laotscripts.com/) [![Docs](https://img.shields.io/badge/Docs-000000?style=plastic&logo=gitbook&logoColor=white)](https://docs.laotscripts.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YNAyVg8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=plastiic)](https://www.youtube.com/@LAOTScripts)
+## Social Links
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtdXNlciBwcmV2aWV3LWljb24iPjxwYXRoIGQ9Ik0xOSAyMXYtMmE0IDQgMCAwIDAtNC00SDlhNCA0IDAgMCAwLTQgNHYyIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSI3IiByPSI0Ii8+PC9zdmc+)](https://laotscripts.com/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YNAyVg8) [![Store](https://img.shields.io/badge/Store-orange.svg?style=for-the-badge&logo=fivem&logoColor=white)](https://laotscripts.com)
 
-### 🛠 Languages & Tools
+## Github Stats
 
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-020420?style=plastic&logo=nuxt&logoColor=00DC82)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-4F5B93.svg?style=plastic&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=sass&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-b39aff.svg?style=plastic&logo=vite&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laot7490&theme=dark" alt="GitHub Streak" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laot7490&layout=compact&theme=dark" alt="Most used languages" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=laot7490&color=blue&style=plastic)
+## Support Me
+
+<a href="https://www.buymeacoffee.com/laot"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
